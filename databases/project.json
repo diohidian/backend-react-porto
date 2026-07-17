@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Project 1",
+        "cover": "https://media.magnific.com/home/relaunch/media/useCases/card-alltools-3-2x.webp?w=930&h=1090",
+        "summary": "lorem ipsum dan lain lain bla bla bla bla bla bla bla bla bla bla",
+        "link": "#",
+        "type": "modern"
+    },
+
+    {
+        "name": "Project 2",
+        "cover": "https://media.magnific.com/home/relaunch/media/useCases/card-alltools-3-2x.webp?w=930&h=1090",
+        "summary": "lorem ipsum dan lain lain bla bla bla bla bla bla bla bla bla bla",
+        "link": "#",
+        "modern": "modern"
+    },
+
+    {
+        "name": "Project 3",
+        "cover": "https://media.magnific.com/home/relaunch/media/useCases/card-alltools-3-2x.webp?w=930&h=1090",
+        "summary": "lorem ipsum dan lain lain bla bla bla bla bla bla bla bla bla bla",
+        "link": "#",
+        "type": "nature"
+    },
+
+    {
+        "name": "Project 4",
+        "cover": "https://media.magnific.com/home/relaunch/media/useCases/card-alltools-3-2x.webp?w=930&h=1090",
+        "summary": "lorem ipsum dan lain lain bla bla bla bla bla bla bla bla bla bla",
+        "link": "#",
+        "type": "nature"
+
+    }
+]

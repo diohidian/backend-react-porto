@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Fiture 1",
+        "cover": "https://media.magnific.com/home/relaunch/media/useCases/card-alltools-3-2x.webp?w=930&h=1090",
+        "summary": "lorem ipsum dan lain lain bla bla bla bla bla bla bla bla bla bla",
+        "link": "#"
+    },
+
+    {
+        "name": "Fiture 2",
+        "cover": "https://media.magnific.com/home/relaunch/media/useCases/card-alltools-3-2x.webp?w=930&h=1090",
+        "summary": "lorem ipsum dan lain lain bla bla bla bla bla bla bla bla bla bla",
+        "link": "#"
+    },
+
+    {
+        "name": "Fiture 3",
+        "cover": "https://media.magnific.com/home/relaunch/media/useCases/card-alltools-3-2x.webp?w=930&h=1090",
+        "summary": "lorem ipsum dan lain lain bla bla bla bla bla bla bla bla bla bla",
+        "link": "#"
+    },
+
+    {
+        "name": "Fiture 4",
+        "cover": "https://media.magnific.com/home/relaunch/media/useCases/card-alltools-3-2x.webp?w=930&h=1090",
+        "summary": "lorem ipsum dan lain lain bla bla bla bla bla bla bla bla bla bla",
+        "link": "#"
+    }
+]
